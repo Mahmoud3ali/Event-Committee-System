@@ -30,5 +30,8 @@
   "bugs": {
     "url": "https://github.com/acmASCIS-Tecnical-Committee/Event-Committee-System/issues"
   },
-  "homepage": "https://github.com/acmASCIS-Tecnical-Committee/Event-Committee-System#readme"
+  "homepage": "https://github.com/acmASCIS-Tecnical-Committee/Event-Committee-System#readme",
+  "engines": {
+    "node": ">=8.11.x"
+  }
 }
